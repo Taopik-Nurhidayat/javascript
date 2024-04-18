@@ -11,7 +11,7 @@ function tabung(a, b) {
   return (22 / 7) * a ** 2 * b;
 }
 
-function bola(a, b) {
+function bola(a) {
   return (((4 / 3) * 22) / 7) * a ** 3;
 }
 function Kerucut(a, b) {
