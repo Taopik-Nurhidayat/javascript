@@ -52,7 +52,7 @@ do {
       a = prompt("Masukan nilai a :");
       b = prompt("Masukan nilai b :");
       console.log(parseFloat(pembagian(a, b)));
-
+      break;
     default:
       alert("Menu yang anda pilih tidak tersedia!");
       break;
