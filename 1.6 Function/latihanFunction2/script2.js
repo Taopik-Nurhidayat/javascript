@@ -17,7 +17,7 @@ function hitungRata(arr) {
 function buatArray() {
   const jumlahElm = parseInt(prompt("Masukan jumlah element pada array: "));
 
-  let arr = [];
+  let arr = []; 
   for (let i = 0; i < jumlahElm; i++) {
     arr.push(parseInt(prompt("Masukkan angka ke-" + (i + 1) + ":")));
   }
