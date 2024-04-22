@@ -16,7 +16,7 @@
 
 //do while
 
-let = 0;
+let i= 0;
 
 do {
   console.log("hello world " + i)
