@@ -24,3 +24,16 @@ do {
   );
   lanjut = prompt("Mau pilih menu yang lain? (Y/T) ");
 } while (lanjut === "Y" || lanjut === "y");
+
+
+
+// //latihan do while
+// let hitung;
+// do {
+//   let a = parseInt(prompt("masukan data pertama"));
+//   let b = parseInt(prompt("masukan data kedua"));
+//  let jumlah = (a + b);
+//   console.log("hasil dari " + a + " + " + b + " = " + parseInt(jumlah));
+
+//   hitung = prompt("Apakah mau lanjut (Y/T)")
+// } while (hitung === "Y" || hitung === "y");
